@@ -1,2 +1,4 @@
 # learning-python-basics
-Python practice programs and logic problems
+ Practice Programs
+
+This repository contains basic Python programs written while learning programming fundamentals.
